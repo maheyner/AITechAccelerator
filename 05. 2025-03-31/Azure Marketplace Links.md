@@ -2,9 +2,9 @@
 
 Links to our solution catalogues - **AppSource** (audience: business folks) and **Marketplace** (tech folks):
 
-[AppSource (business apps)](https://appsource.microsoft.com/en-us/)
+- [AppSource (business apps)](https://appsource.microsoft.com/en-us/)
 
-[Marketplace (cloud software)](https://azuremarketplace.microsoft.com/en-US/)
+- [Marketplace (cloud software)](https://azuremarketplace.microsoft.com/en-US/)
 
 Great place to start exploring all topics around Azure Marketplace (and VMs, SaaS + Azure Managed Apps specifically) is the [Mastering the Marketplace](https://microsoft.github.io/Mastering-the-Marketplace/) docs hub.
 
