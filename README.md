@@ -2,6 +2,7 @@
 Welcome to the AI Tech Accelerator Community!
 Here you will find all slides presented during 1:many sessions, as well as all the links you need. 
 
+Contact: swiss-su@microsoft.com
 
 Important Links:
 Repository: https://aka.ms/AIrepo
